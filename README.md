@@ -1,5 +1,5 @@
 
-<h2> Hey there! I'm Alejandra. :hand:
+<h2> Hola a todos! Soy Alejandra. :hand:
 <img align="right" alt="GIF" src="364c4dd9ad5c4b3d415a63f0ceb105b4.jpeg" width="350"/>
 
 <h3>👩🏽‍💻 Sobre mi </h3>
@@ -37,11 +37,11 @@
 
 
 
-<p align="center">
-&nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<h3 align="left">Mis redes sociales:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandra-fusil-93385a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandra-fusil-93385a225/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/alejandrafusil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alejandrafusil/" height="30" width="40" /></a>
 </p>
 
-⭐️ From [alejandrafusil](https://github.com/alejandrafusil)
+💃 [alejandrafusil](https://github.com/alejandrafusil)
