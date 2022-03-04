@@ -2,7 +2,7 @@
 <h2> Hey there! I'm Alejandra. :hand:
 <img align="right" alt="GIF" src="" width="500"/>
 
-<h3>👩🏽‍💻 About Me </h3>
+<h3>👩🏽‍💻 Sobre mi </h3>
 
 - 🔭 &nbsp; Actualmente estoy aprendiendo desarrollo de aplicaciones web
 - 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
