@@ -10,6 +10,8 @@
 - 🌱&nbsp; Apasionado de la ciberseguridad y la inteligencia artificial.
 - ✍️ &nbsp; escuchar musica y probar las últimas tendencias de diseño como pasatiempos/actividades secundarias.
 
+  
+  
 <h3>🛠 Tech Stack</h3>
   
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
