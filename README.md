@@ -1,6 +1,6 @@
 
 <h2> Hey there! I'm Alejandra. :hand:
-<img align="right" alt="GIF" src="364c4dd9ad5c4b3d415a63f0ceb105b4.jpeg" width="400"/>
+<img align="right" alt="GIF" src="364c4dd9ad5c4b3d415a63f0ceb105b4.jpeg" width="350"/>
 
 <h3>👩🏽‍💻 Sobre mi </h3>
 
