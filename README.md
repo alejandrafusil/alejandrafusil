@@ -1,6 +1,6 @@
 
 <h2> Hey there! I'm Alejandra. :hand:
-<img align="right" alt="GIF" src="" width="500"/>
+<img align="right" alt="GIF" src="364c4dd9ad5c4b3d415a63f0ceb105b4.jpeg" width="400"/>
 
 <h3>👩🏽‍💻 Sobre mi </h3>
 
@@ -34,7 +34,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
-<h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
@@ -43,4 +42,4 @@
 &nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+⭐️ From [alejandrafusil](https://github.com/alejandrafusil)
