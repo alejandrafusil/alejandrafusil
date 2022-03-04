@@ -26,18 +26,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-
 <br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-
-
-
-<h3 align="left">Mis redes sociales:</h3>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrafusil&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="alejandrafusil" /></p>
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrafusil&show_icons=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en&layout=compact" alt="alejandrafusil" /></p>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandra-fusil-93385a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandra-fusil-93385a225/" height="30" width="40" /></a>
