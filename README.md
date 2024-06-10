@@ -4,7 +4,7 @@
 
 <h3>👩🏽‍💻 Sobre mi </h3>
 
-- 🔭 &nbsp; Actualmente estoy aprendiendo desarrollo de aplicaciones web
+- 🔭 &nbsp; Analista Desarrolladora con sólida experiencia en el desarrollo de soluciones tecnológicas innovadoras.
 - 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
 - 💼 &nbsp; Desarrollador web front-end and back-end
 - 🌱&nbsp; Apasionado de la ciberseguridad y la inteligencia artificial.
