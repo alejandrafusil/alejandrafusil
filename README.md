@@ -4,7 +4,7 @@
 
 Desarrolladora Full Stack con 4+ años construyendo productos digitales en producción. Trabajo de extremo a extremo —frontend, backend e integraciones— y me especializo en productos SaaS B2B, sistemas empresariales e integración de IA dentro de flujos reales de negocio.
 
-📍 Santiago, Chile · Disponible para trabajo remoto
+📍 Santiago, Chile.
 
 ---
 
