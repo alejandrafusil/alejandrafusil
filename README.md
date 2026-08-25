@@ -1,39 +1,62 @@
+# Hola, soy Alejandra 👋
 
-<h2> Hola a todos! Soy Alejandra. :hand:
-<img align="right" alt="GIF" src="364c4dd9ad5c4b3d415a63f0ceb105b4.jpeg" width="350"/>
+**Full Stack Developer · Integración de IA · SaaS B2B**
 
-<h3>👩🏽‍💻 Sobre mi </h3>
+Desarrolladora Full Stack con 4+ años construyendo productos digitales en producción. Trabajo de extremo a extremo —frontend, backend e integraciones— y me especializo en productos SaaS B2B, sistemas empresariales e integración de IA dentro de flujos reales de negocio.
 
-- 🔭 &nbsp; Analista Desarrolladora con sólida experiencia en el desarrollo de soluciones tecnológicas innovadoras.
-- 🤔 &nbsp; Explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
-- 💼 &nbsp; Desarrollador web front-end and back-end
-- 🌱&nbsp; Apasionado de la ciberseguridad y la inteligencia artificial.
-- ✍️ &nbsp; escuchar musica y probar las últimas tendencias de diseño como pasatiempos/actividades secundarias.
+📍 Santiago, Chile · Disponible para trabajo remoto
 
-  
-  
-<h3>🛠 Tech Stack</h3>
-  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+---
 
+### 🧠 Sobre mí
 
-<br>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alejandrafusil&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="alejandrafusil" /></p>
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alejandrafusil&show_icons=true&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en&layout=compact" alt="alejandrafusil" /></p>
+- 🏗️ Construyo productos SaaS B2B y sistemas empresariales de principio a fin.
+- 🔗 Integro APIs, CRMs, facturación y analytics.
+- 🤖 Incorporo IA (OpenAI API, Claude API) y automatización de flujos con n8n en procesos operativos.
+- 🌱 Aprendo y experimento constantemente con nuevas tecnologías.
 
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandra-fusil-93385a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandra-fusil-93385a225/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/alejandrafusil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alejandrafusil/" height="30" width="40" /></a>
-</p>
+---
 
-💃 [alejandrafusil](https://github.com/alejandrafusil)
+### 🛠️ Tech Stack
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**IA & Automatización**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+**Herramientas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+### 📫 Contacto
+
+[![Portfolio](https://img.shields.io/badge/Portafolio-181818?style=flat&logo=googlechrome&logoColor=white)](https://alejandrafusil.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alejandrafusil)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alejandrafusil@gmail.com)
+
+---
+
+<sub>English: Full Stack Developer specialized in B2B SaaS products, enterprise systems and AI integration. Comfortable across frontend, backend, APIs and workflow automation.</sub>
+
